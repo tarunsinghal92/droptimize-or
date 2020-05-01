@@ -1,0 +1,26 @@
+{
+  "data": {
+      "deliveries": [
+          {
+              "location_id": "A",
+              "address": "181 Dundas St East, Toronto",
+              "quantity": 5
+          },
+          {
+              "location_id": "B",
+              "address": "83 Lilian Drive, Scarborough",
+              "quantity": 8
+          },
+          {
+              "location_id": "C",
+              "address": "57 Medway Cres, Scarborough",
+              "quantity": 12
+          }
+      ],
+      "depot": {
+          "location_id": "O",
+          "address": "220 Yonge St, Toronto, ON M5B 2H1, Canada",
+          "vehicle_capacity": 15
+      }
+  }
+}
